@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Test repository
+Hello! I am just learning how to use this.
